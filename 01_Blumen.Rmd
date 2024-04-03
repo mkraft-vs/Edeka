@@ -1,0 +1,10 @@
+---
+title: "Welche Blumen?"
+author: "Manfred Kraft"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+Einige populäre Pflanzen vorstellen...
+
+Schafgarbe (Achillea millefolium), Wegwarte (Cichorium intybus), Klatschmohn (Papaver rhoeas), Margeriten (Leucanthemum), Karde (Dipsacus fullonum), Natternkopf (Echium vulgare), Acker-Witwenblume (Knautia arvensis), Kornblume (Centaurea cyanus), Lichtnelke (Silene), Glockenblumen (Campanula) und Wiesen-Salbei (Salvia pratensis) sind nur einige der Pflanzen, die bei uns auf Wiesen und Säumen heimisch sind. Sie können in Saatgut-Mischungen aus dem Handel enthalten sein.
