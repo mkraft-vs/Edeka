@@ -1,0 +1,51 @@
+---
+title: "Blühfläche in 7 Schritten"
+author: "Manfred Kraft"
+date: "`r Sys.Date()`"
+output:
+  pdf_document: default
+  word_document: default
+---
+--------------------------------
+**Jugendleiter**: Ablauf des Projekts 
+
+Der Ablauf des Projekts **Blühwiese "Start des "Projekts"**" in 7 Schritten.
+
+Zusammenfassung der einzelnen Veranstaltungen.
+
+Schritt 1:
+ Gründung der Jug.-Projektgruppe
+
+Schritt 2: "Seminar" für die Projektgruppe
+1. "Einführung in das Thema"
+
+Schritt 3:"Bastelstunde"
+1. Herstellen von Holzbretter für die Schuhe
+
+Schritt 4: Vorbereitung 
+1. Fläche auswählen
+2. Entscheidung Saum oder Wiese
+3. Saatgut besorgen
+4. Sand besorgen
+5. Eimer besorgen
+
+Schritt 4: Boden vorbereiten
+1. Fläche vorbereiten
+2. Mit Brettern festtreten
+3. 14 Tage bzw. 3 Wochen warten
+
+Schritt 5: Einsaat
+1. Fläche jäten
+2. Saatgut mit Sand mischen
+3. Einsaen
+4. Festtreten
+
+Schritt 6: Pflege
+1. Plan für Pflege 1. Jahr erstellen
+2. Giessen
+3. Schröpfschnitt
+4. "Heu-Mahd"
+  
+Schritt 7: jährliche Pflege
+1. Plan für Pflege erstellen
+2. "Heu-Mahd"

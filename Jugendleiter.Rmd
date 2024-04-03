@@ -1,0 +1,63 @@
+---
+title: "Jugendleiter"
+author: "Manfred Kraft"
+date: "`r Sys.Date()`"
+output:
+  pdf_document: default
+  html_document:
+    df_print: paged
+  word_document: default
+---
+
+
+**Jugendleiter**: Ablaufplan des Projekts"Blühwiese anlegen mit den Kindern"
+
+Der Ablauf des Projekts **Blühwiese "Start des "Projekts"**" in 7 Schritten.
+
+Zusammenfassung der einzelnen Veranstaltungen des Jugendleiters.
+
+Schritt 1:
+
+* Gründung der Jug.-Projektgruppe
+
+Schritt 2: "Seminar" für die Projektgruppe
+
+* "Einführung in das Thema"
+
+Schritt 3:"Bastelstunde"
+
+* Herstellen von Holzbretter für die Schuhe
+
+Schritt 4: Vorbereitung 
+
+* Fläche auswählen
+* Entscheidung Saum oder Wiese
+* Saatgut besorgen
+* Sand besorgen
+* Eimer besorgen
+
+Schritt 4: Boden vorbereiten
+
+* Fläche vorbereiten
+* Mit Brettern festtreten
+* 14 Tage bzw. 3 Wochen warten
+
+Schritt 5: Einsaat
+
+* Fläche jäten
+* Saatgut mit Sand mischen
+* Einsaen
+* Festtreten
+
+Schritt 6: Pflege
+
+* Plan für Pflege 1. Jahr erstellen
+
+* Giessen
+* Schröpfschnitt
+* "Heu-Mahd"
+  
+Schritt 7: jährliche Pflege
+
+* Plan für Pflege erstellen
+* "Heu-Mahd"

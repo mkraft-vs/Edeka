@@ -1,0 +1,10 @@
+---
+title: "Bastelstunde"
+author: "Manfred Kraft"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+Wir basteln uns eine "Trampel-Hilfe" in Form von Brettern, 
+die unter die Schuhe geschnallt werden und zum Festtreten 
+der Einsaat erforderlich sind

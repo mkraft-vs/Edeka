@@ -1,0 +1,12 @@
+---
+title: "Giessen"
+author: "Manfred Kraft"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+In den ersten sechs Wochen nach der Aussaat sollte die Fläche auf jeden Fall feucht gehalten werden. Nur dann können die Samen keimen.
+
+Bild: Keimling
+
+Da die Sommer inzwischen sehr heiß geworden sind, fehlt es den Keimlingen aber dann an Feuchtigkeit. Weil es so trocken ist, kann es passieren, dass die Wiese nicht anwächst. Oder Sie müssen so viel gießen, dass die Blumenmischung alles andere als pflegeleicht ist. 

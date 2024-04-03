@@ -1,0 +1,9 @@
+---
+title: "Welche Pflege ist nötig?"
+author: "Manfred Kraft"
+date: "`r Sys.Date()`"
+output:
+  pdf_document: default
+  html_document: default
+---
+ Sind die Pflanzen herangewachsen, sollte ein Saum einmal im Jahr, Ende März bis Anfang April, gemäht werden. So verhindern Sie, dass in dem Blumensaum Sträucher oder Bäume wachsen. Eine blühende Wiese muss zwei bis drei Mal im Jahr gemäht werden. Zur Orientierung dienen die Margeriten. Blühen sie, sollten Rasenmäher oder Sense bald zum Einsatz kommen. Empfehlenswert für den Schnitt sind die Monate Juni bis Juli und Oktober. 

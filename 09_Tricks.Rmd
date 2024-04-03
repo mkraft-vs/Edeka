@@ -1,0 +1,12 @@
+---
+title: "Bastestunde"
+author: "Manfred Kraft"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+Tricks:
+
+Holzbretter unter die Füße...
+
+Bild: Kind mit Bretter unter den Schuhen

@@ -1,0 +1,12 @@
+---
+title: "Wann legen wir eine Wiese an?"
+author: "Manfred Kraft"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+
+
+Der ideale Zeitpunkt für das Anlegen einer Wiese oder eines Saums ist der Spätsommer. Zwischen Ende August und Mitte September, wenn es wieder kühler und neblig wird, kann gesät werden. Die Feuchtigkeit im Herbst hilft den Samen beim Keimen und Wachsen.
+
+Ursprünglich galt auch das Frühjahr als guter Zeitpunkt, um eine Wiese anzulegen. Da die Sommer inzwischen sehr heiß geworden sind, fehlt es den Keimlingen aber dann an Feuchtigkeit. Weil es so trocken ist, kann es passieren, dass die Wiese nicht anwächst. Oder Sie müssen so viel gießen, dass die Blumenmischung alles andere als pflegeleicht ist.
